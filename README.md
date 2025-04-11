@@ -60,7 +60,7 @@ docker run -e WEATHER_API_KEY=aeca72e73a1f4acfa7f163903251104 -p 8080:8080 weath
 ### CEP válido
 
 ```bash
-curl http://localhost:8080/weather?cep=01001000
+curl http://localhost:8080/weather?cep=14170420
 ```
 
 **Resposta:**
