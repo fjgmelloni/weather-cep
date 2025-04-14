@@ -8,20 +8,17 @@ A aplicação consulta o CEP via [ViaCEP](https://viacep.com.br) e retorna a tem
 ---
 
 
-## Deploy no Google Cloud Run
+## 🌐 Deploy no Google Cloud Run
 
 A aplicação está publicada e acessível no link abaixo:
 
 🔗 [https://weather-cep-80001169787.us-central1.run.app](https://weather-cep-80001169787.us-central1.run.app)
 
-### Exemplo de requisição:
+### ✅ Exemplo de requisição:
 
-```http
+
 GET /weather?cep=14170420
 Host: weather-cep-80001169787.us-central1.run.app
-
-Exemplo de uso:
-GET /weather?cep=14170420
 
 ## Tecnologias Utilizadas
 
