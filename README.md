@@ -18,7 +18,6 @@ A aplicação está publicada e acessível no link abaixo:
 
 
 GET /weather?cep=14170420
-Host: weather-cep-80001169787.us-central1.run.app
 
 ## Tecnologias Utilizadas
 
